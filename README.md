@@ -1,7 +1,7 @@
 # ASL Flex Glove
 
 ![Microcontroller](https://img.shields.io/badge/Microcontroller-Arduino_Nano-blue)
-![Firmware](https://img.shields.io/badge/Firmware-C++-brightgreen)
+![Firmware](https://img.shields.io/badge/Firmware-C/C++-brightgreen)
 ![Hardware](https://img.shields.io/badge/Hardware-PCB_Design-orange)
 ![Systems](https://img.shields.io/badge/Domain-Embedded_Systems-purple)
 ![CAD](https://img.shields.io/badge/Tools-3D_CAD-yellow)
