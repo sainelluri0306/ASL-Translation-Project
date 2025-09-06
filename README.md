@@ -9,7 +9,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Hardware](#hardware)
-- [Code](#code)
+- [Firmware](#code)
 - [PCB & Circuit Schematic](#pcb--circuit-schematic)
 - [3D CAD Design](#-3d-cad-design)
 - [Future Improvements](#future-improvements)
