@@ -4,7 +4,7 @@
 ![C++](https://img.shields.io/badge/code-C++-brightgreen)
 ![PCB](https://img.shields.io/badge/design-PCB-orange)
 
-## 📑 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Hardware](#hardware)
 - [Code](#code)
