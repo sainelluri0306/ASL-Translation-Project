@@ -9,6 +9,7 @@
 - [Hardware](#hardware)
 - [Code](#code)
 - [PCB & Circuit Schematic](#pcb--circuit-schematic)
+- [3D CAD Design](#-3d-cad-design)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
 
@@ -25,7 +26,8 @@ It demonstrates how sensor data and embedded programming can be applied to creat
 - Microcontroller: Arduino Nano (or equivalent)  
 - 10kΩ resistors for voltage dividers  
 - Power source (USB or 9V battery)  
-- PCB (final version replaces breadboard)  
+- PCB (final version replaces breadboard)
+- 3D Printed Case for Structural Support
 - Optional: Bluetooth/Wi-Fi module  
 
 ---
@@ -39,6 +41,12 @@ It reads flex sensor values and maps them to ASL letters.
 ## PCB & Circuit Schematic
 All schematics, PCB layouts, and 3D simulations can be found in the 
 [pcb-and-circuit-schematics.md](PCB-and-Circuit-Schematics.md) file.
+
+---
+
+## 🖊3D CAD Design
+The structural support and enclosure for the pcb and the glove are modeled and provided by the 3D printed design.
+Files and renderings will be added in the [ASL-3D-CAD-Design.md](ASL-3D-CAD-Design.md) file.
 
 ---
 
