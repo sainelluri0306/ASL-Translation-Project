@@ -11,7 +11,7 @@ This 3D CAD model represents the glove enclosure designed to house the PCB and s
 ## 📂 STL File
 The 3D model can be downloaded as an STL file for prototyping:  
 
-[Download 3D Case Design STL](./ASL-Glove-Case.stl)
+[Download 3D Case Design STL](ASL-Translation-Project-Case-Design.stl)
 
 ---
 
