@@ -1,10 +1,10 @@
 # ASL Flex Glove
 
-![Arduino](https://img.shields.io/badge/microcontroller-Arduino-blue)
-![C++](https://img.shields.io/badge/code-C++-brightgreen)
-![PCB](https://img.shields.io/badge/design-PCB-orange)
-![Embedded](https://img.shields.io/badge/domain-Embedded_Systems-purple)
-![CAD](https://img.shields.io/badge/CAD-Design-yellow)
+![Microcontroller](https://img.shields.io/badge/Microcontroller-Arduino_Nano-blue)
+![Firmware](https://img.shields.io/badge/Firmware-C++-brightgreen)
+![Hardware](https://img.shields.io/badge/Hardware-PCB_Design-orange)
+![Systems](https://img.shields.io/badge/Domain-Embedded_Systems-purple)
+![CAD](https://img.shields.io/badge/Tools-3D_CAD-yellow)
 
 ## Table of Contents
 - [Overview](#overview)
