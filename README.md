@@ -31,7 +31,8 @@ It demonstrates how sensor data and embedded programming can be applied to creat
 ---
 
 ## Code
-Arduino code is included in the ASL-Translation-Project.ino file.
+## Code
+Arduino code is included in the [ASL-Translation-Project.ino](./code/ASL-Translation-Project.ino) file.
 It reads flex sensor values and maps them to ASL letters.
 
 ---
