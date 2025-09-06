@@ -38,9 +38,9 @@ It reads flex sensor values and maps them to ASL letters.
 ---
 
 ## PCB & Circuit Schematic
-- Circuit Schematic: see `hardware/circuit_schematic.png`  
-- PCB Layout: see `hardware/pcb_layout.png`  
-- 3D PCB Simulation: see `hardware/pcb_3d_view.png`  
+## PCB & Circuit Schematic
+All schematics, PCB layouts, and 3D simulations can be found in the 
+[pcb-and-circuit-schematics.md](./hardware/pcb-and-circuit-schematics.md) file.
 
 ---
 
