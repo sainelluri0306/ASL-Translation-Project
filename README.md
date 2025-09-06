@@ -52,4 +52,4 @@ All schematics, PCB layouts, and 3D simulations can be found in the
 ---
 
 ## Author
-**Sai Nelluri** – Personal engineering project focused on embedded systems, sensor integration, and assistive technology.
+**Sai Nelluri** – Engineering project focused on embedded systems, sensor integration, and assistive technology for First Year Design Day Project.
