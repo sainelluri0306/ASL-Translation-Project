@@ -3,6 +3,8 @@
 ![Arduino](https://img.shields.io/badge/microcontroller-Arduino-blue)
 ![C++](https://img.shields.io/badge/code-C++-brightgreen)
 ![PCB](https://img.shields.io/badge/design-PCB-orange)
+![Embedded](https://img.shields.io/badge/domain-Embedded_Systems-purple)
+![CAD](https://img.shields.io/badge/CAD-Design-yellow)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -44,9 +46,11 @@ All schematics, PCB layouts, and 3D simulations can be found in the
 
 ---
 
-## 🖊3D CAD Design
-The structural support and enclosure for the pcb and the glove are modeled and provided by the 3D printed design.
-Files and renderings will be added in the [ASL-3D-CAD-Design.md](ASL-3D-CAD-Design.md) file.
+## 🖊️ 3D CAD Design
+In addition to the circuit and PCB, a **3D CAD design** was created to support the glove and house the electronics for stability.  
+
+All CAD files and renderings are included in the  
+[ASL-case-3d-cad-design.md](ASL-case-3d-cad.design.md) file.
 
 ---
 
