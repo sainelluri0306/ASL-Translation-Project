@@ -46,7 +46,7 @@ All schematics, PCB layouts, and 3D simulations can be found in the
 
 ---
 
-## 🖊️ 3D CAD Design
+## 3D CAD Design
 In addition to the circuit and PCB, a **3D CAD design** was created to support the glove and house the electronics for stability.  
 
 All CAD files and renderings are included in the  
