@@ -31,13 +31,11 @@ It demonstrates how sensor data and embedded programming can be applied to creat
 ---
 
 ## Code
-## Code
 Arduino code is included in the [ASL-Translation-Project.ino](ASL-Translation-Project-Code.ino) file.
 It reads flex sensor values and maps them to ASL letters.
 
 ---
 
-## PCB & Circuit Schematic
 ## PCB & Circuit Schematic
 All schematics, PCB layouts, and 3D simulations can be found in the 
 [pcb-and-circuit-schematics.md](./hardware/pcb-and-circuit-schematics.md) file.
