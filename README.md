@@ -24,7 +24,7 @@ It demonstrates how sensor data and embedded programming can be applied to creat
 - Flex sensors (5x, one per finger)  
 - Microcontroller: Arduino Nano (or equivalent)  
 - 10kΩ resistors for voltage dividers  
-- Power source (USB or battery pack)  
+- Power source (USB or 9V battery)  
 - PCB (final version replaces breadboard)  
 - Optional: Bluetooth/Wi-Fi module  
 
