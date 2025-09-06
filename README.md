@@ -62,14 +62,15 @@ All CAD files and renderings are included in the [ASL-case-3d-cad-design.md](ASL
 
 ---
 
-## Author
-**Sai Nelluri** – Engineering project focused on embedded systems, sensor integration, and assistive technology for First Year Design Day Project.
-
----
-
 ## Final Product
 
   <img src="https://github.com/user-attachments/assets/ece95dc0-f202-4c32-bcf1-4f686941de12" width="240"/>  <img src="https://github.com/user-attachments/assets/9c8471cb-b8b4-4360-ac5d-c65a459834a2" width="500"/> <img width="175" alt="image" src="https://github.com/user-attachments/assets/645c9ed3-431d-47db-bca3-231cc4466e02" />
+
+
+---
+
+## Author
+**Sai Nelluri** – Engineering project focused on embedded systems, sensor integration, and assistive technology for First Year Design Day Project.
 
 
 
