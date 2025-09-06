@@ -31,8 +31,8 @@ It demonstrates how sensor data and embedded programming can be applied to creat
 ---
 
 ## Code
-Arduino code is included in the `code/` folder as `ASL_Flex_Glove.ino`.  
-It reads flex sensor values and maps them to ASL letters.  
+Arduino code is included in the ASL-Translation-Project.ino file.
+It reads flex sensor values and maps them to ASL letters.
 
 ---
 
